@@ -1,11 +1,11 @@
 
 # Mobile
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+Este Projeto foi realizado através do conhecimento adquirido do Flexbox.As tecnologias usadas foam apenas HTML e CSS.
 
-![enter image description here](https://github.com/Emersonpacifico/CloneNetflix/blob/master/img/mobile.gif?raw=true)
+![enter image description here](https://github.com/emersonpacifico/Bolos-Doces/blob/master/img/mobile%20(2).gif?raw=true)
 
 
 # DESKTOP
 
-![enter image description here](https://github.com/Emersonpacifico/CloneNetflix/blob/master/img/Pagina.gif?raw=true)
+![enter image description here](https://github.com/emersonpacifico/Bolos-Doces/blob/master/img/giphy%20pagina%20bolo.gif?raw=true)
